@@ -1,0 +1,39 @@
+*{
+	box-sizing:border-box;
+}
+
+body, *{
+	margin:0;
+}
+
+.t4Left{
+	float:left;
+}
+
+.t4Right{
+	float:right;
+}
+
+.t4Clear{
+	clear:both;
+}
+
+.t4Fixed{
+	position:fixed;
+}
+
+.t4Relative{
+	position:relative;
+}
+
+.t4Absolute{
+	position:absolute;
+}
+
+a{
+	text-decoration:none;
+}
+
+ul li{
+	list-style:none;
+}

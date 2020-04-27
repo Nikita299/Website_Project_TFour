@@ -1,0 +1,46 @@
+@media only screen and (max-width:1024px){
+
+.t4Desktop{
+	display:none;
+}
+
+.t4Mobile{
+	display:block;
+}
+	
+.fixedWidth{
+	width:100%;
+}
+
+.header{
+	background-color:#ececec;
+}
+
+.header .t4Left, .header .t4Right{
+	width:100%;
+	text-align:center;
+	padding:10px 0;
+}
+
+.header .logo img{
+	width:100%;
+}
+
+.mobileMenu{
+	text-align:right;
+	padding:20px;
+}
+
+.courses .t4Left{
+	width:50%;
+}
+
+.courses .t4RBorder{
+	border-right:solid 1px #4d5f68;
+}
+
+.courses .lRemove{
+	border-right:none;
+}
+
+}
